@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement (design)
 - 🌱 I’m currently learning HTML, CSS, JS (DOM, FETCH API, REACT), PHP (REST API, ...), ...
 - 💞️ I’m looking to collaborate on any javascript project
-- 📫 How to reach me hlovecraft097@gmail.com
+- 📫 How to reach me napoukinedamedjate@gmail.com
 
 <!---
 franco-d/franco-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
