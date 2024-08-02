@@ -2,15 +2,11 @@
 
 I'm a passionate and skilled web developer with a focus on design and functionality. Here’s a bit about me:
 
-----
-
 #### **About Me**
 - **🌱 Currently Learning**: HTML, CSS, JavaScript (DOM, FETCH API, React), PHP (REST API)
 - **👀 Interested In**: Web development and design
 - **💞️ Looking to Collaborate On**: Any JavaScript project
 - **📫 How to Reach Me**: [napoukinedamedjate@gmail.com](mailto:napoukinedamedjate@gmail.com)
-
----
 
 #### **Technical Skills**
 
@@ -20,8 +16,6 @@ I'm a passionate and skilled web developer with a focus on design and functional
 - ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 - ![Electron.js](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 
----
-
 #### **Database Technologies**
 
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -29,7 +23,6 @@ I'm a passionate and skilled web developer with a focus on design and functional
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
----
 
 #### **Development Tools**
 
@@ -40,7 +33,6 @@ I'm a passionate and skilled web developer with a focus on design and functional
 - ![Expo CLI](https://img.shields.io/badge/Expo%20CLI-000020?logo=expo&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
----
 
 I’m dedicated to using my skills to create innovative and efficient solutions. I thrive on collaborating with others and continuously learning to stay updated with the latest technologies and trends in web development.
 
