@@ -1,12 +1,12 @@
-👋 **Hi, I’m Napoukine DAMEDJATE (@franco-d)**
+**Hi, I’m Napoukine DAMEDJATE (@franco-d)**
 
 I'm a passionate and skilled web developer with a focus on design and functionality. Here’s a bit about me:
 
 #### **About Me**
-- **🌱 Currently Learning**: HTML, CSS, JavaScript (DOM, FETCH API, React), PHP (REST API)
-- **👀 Interested In**: Web development and design
-- **💞️ Looking to Collaborate On**: Any JavaScript project
-- **📫 How to Reach Me**: [napoukinedamedjate@gmail.com](mailto:napoukinedamedjate@gmail.com)
+- **Currently Learning**: HTML, CSS, JavaScript (DOM, FETCH API, React), PHP (REST API)
+- **Interested In**: Web development and design
+- **Looking to Collaborate On**: Any JavaScript project
+- **How to Reach Me**: [napoukinedamedjate@gmail.com](mailto:napoukinedamedjate@gmail.com)
 
 #### **Technical Skills**
 
